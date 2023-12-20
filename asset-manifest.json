@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Maria-Yarosh/kanban-board.git/static/css/main.ed2b54d9.css",
+    "main.js": "/Maria-Yarosh/kanban-board.git/static/js/main.7f631655.js",
+    "static/js/787.c23e2210.chunk.js": "/Maria-Yarosh/kanban-board.git/static/js/787.c23e2210.chunk.js",
+    "index.html": "/Maria-Yarosh/kanban-board.git/index.html",
+    "main.ed2b54d9.css.map": "/Maria-Yarosh/kanban-board.git/static/css/main.ed2b54d9.css.map",
+    "main.7f631655.js.map": "/Maria-Yarosh/kanban-board.git/static/js/main.7f631655.js.map",
+    "787.c23e2210.chunk.js.map": "/Maria-Yarosh/kanban-board.git/static/js/787.c23e2210.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed2b54d9.css",
+    "static/js/main.7f631655.js"
+  ]
+}
